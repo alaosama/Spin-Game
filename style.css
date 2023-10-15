@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Popping", sans-serif;
+}
+
+body{
+    heoght: 100vh;
+    backround: linear-gradient();
